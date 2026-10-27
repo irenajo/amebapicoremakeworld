@@ -1,0 +1,429 @@
+{
+  "base": "assets/generated-game-assets/characters/base/brunette-character-base.png",
+  "categories": {
+    "accessories": [
+      {
+        "id": "accessory-01",
+        "name": "Accessory 01",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-01.png"
+      },
+      {
+        "id": "accessory-02",
+        "name": "Accessory 02",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-02.png"
+      },
+      {
+        "id": "accessory-03",
+        "name": "Accessory 03",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-03.png"
+      },
+      {
+        "id": "accessory-04",
+        "name": "Accessory 04",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-04.png"
+      },
+      {
+        "id": "accessory-05",
+        "name": "Accessory 05",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-05.png"
+      },
+      {
+        "id": "accessory-06",
+        "name": "Accessory 06",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-06.png"
+      },
+      {
+        "id": "accessory-07",
+        "name": "Accessory 07",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-07.png"
+      },
+      {
+        "id": "accessory-08",
+        "name": "Accessory 08",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-08.png"
+      },
+      {
+        "id": "accessory-09",
+        "name": "Accessory 09",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-09.png"
+      },
+      {
+        "id": "accessory-10",
+        "name": "Accessory 10",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-10.png"
+      },
+      {
+        "id": "accessory-11",
+        "name": "Accessory 11",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-11.png"
+      },
+      {
+        "id": "accessory-12",
+        "name": "Accessory 12",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-12.png"
+      },
+      {
+        "id": "accessory-13",
+        "name": "Accessory 13",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-13.png"
+      },
+      {
+        "id": "accessory-14",
+        "name": "Accessory 14",
+        "source": "assets/generated-game-assets/characters/clothing/accessories/accessory-14.png"
+      }
+    ],
+    "bottoms": [
+      {
+        "id": "bottom-01",
+        "name": "Bottom 01",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-01.png"
+      },
+      {
+        "id": "bottom-02",
+        "name": "Bottom 02",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-02.png"
+      },
+      {
+        "id": "bottom-03",
+        "name": "Bottom 03",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-03.png"
+      },
+      {
+        "id": "bottom-04",
+        "name": "Bottom 04",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-04.png"
+      },
+      {
+        "id": "bottom-05",
+        "name": "Bottom 05",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-05.png"
+      },
+      {
+        "id": "bottom-06",
+        "name": "Bottom 06",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-06.png"
+      },
+      {
+        "id": "bottom-07",
+        "name": "Bottom 07",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-07.png"
+      },
+      {
+        "id": "bottom-08",
+        "name": "Bottom 08",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-08.png"
+      },
+      {
+        "id": "bottom-09",
+        "name": "Bottom 09",
+        "source": "assets/generated-game-assets/characters/clothing/bottoms/bottom-09.png"
+      }
+    ],
+    "shoes": [
+      {
+        "id": "shoes-01",
+        "name": "Shoes 01",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-01.png"
+      },
+      {
+        "id": "shoes-02",
+        "name": "Shoes 02",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-02.png"
+      },
+      {
+        "id": "shoes-03",
+        "name": "Shoes 03",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-03.png"
+      },
+      {
+        "id": "shoes-04",
+        "name": "Shoes 04",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-04.png"
+      },
+      {
+        "id": "shoes-05",
+        "name": "Shoes 05",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-05.png"
+      },
+      {
+        "id": "shoes-06",
+        "name": "Shoes 06",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-06.png"
+      },
+      {
+        "id": "shoes-07",
+        "name": "Shoes 07",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-07.png"
+      },
+      {
+        "id": "shoes-08",
+        "name": "Shoes 08",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-08.png"
+      },
+      {
+        "id": "shoes-09",
+        "name": "Shoes 09",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-09.png"
+      },
+      {
+        "id": "shoes-10",
+        "name": "Shoes 10",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-10.png"
+      },
+      {
+        "id": "shoes-11",
+        "name": "Shoes 11",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-11.png"
+      },
+      {
+        "id": "shoes-12",
+        "name": "Shoes 12",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-12.png"
+      },
+      {
+        "id": "shoes-13",
+        "name": "Shoes 13",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-13.png"
+      },
+      {
+        "id": "shoes-14",
+        "name": "Shoes 14",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-14.png"
+      },
+      {
+        "id": "shoes-15",
+        "name": "Shoes 15",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-15.png"
+      },
+      {
+        "id": "shoes-16",
+        "name": "Shoes 16",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-16.png"
+      },
+      {
+        "id": "shoes-17",
+        "name": "Shoes 17",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-17.png"
+      },
+      {
+        "id": "shoes-18",
+        "name": "Shoes 18",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-18.png"
+      },
+      {
+        "id": "shoes-19",
+        "name": "Shoes 19",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-19.png"
+      },
+      {
+        "id": "shoes-20",
+        "name": "Shoes 20",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-20.png"
+      },
+      {
+        "id": "shoes-21",
+        "name": "Shoes 21",
+        "source": "assets/generated-game-assets/characters/clothing/shoes/shoes-21.png"
+      }
+    ],
+    "tops": [
+      {
+        "id": "top-01",
+        "name": "Top 01",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-01.png",
+        "video_start": 9.1,
+        "video_end": 10.3
+      },
+      {
+        "id": "top-02",
+        "name": "Top 02",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-02.png",
+        "video_start": 10.9,
+        "video_end": 11.4
+      },
+      {
+        "id": "top-03",
+        "name": "Top 03",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-03.png",
+        "video_start": 12.3,
+        "video_end": 13.0
+      },
+      {
+        "id": "top-04",
+        "name": "Top 04",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-04.png",
+        "video_start": 13.7,
+        "video_end": 14.7
+      },
+      {
+        "id": "top-05",
+        "name": "Top 05",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-05.png",
+        "video_start": 15.4,
+        "video_end": 16.0
+      },
+      {
+        "id": "top-06",
+        "name": "Top 06",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-06.png",
+        "video_start": 18.6,
+        "video_end": 19.2
+      },
+      {
+        "id": "top-07",
+        "name": "Top 07",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-07.png",
+        "video_start": 19.9,
+        "video_end": 20.4
+      },
+      {
+        "id": "top-08",
+        "name": "Top 08",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-08.png",
+        "video_start": 22.1,
+        "video_end": 22.5
+      },
+      {
+        "id": "top-09",
+        "name": "Top 09",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-09.png",
+        "video_start": 23.3,
+        "video_end": 23.9
+      },
+      {
+        "id": "top-10",
+        "name": "Top 10",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-10.png",
+        "video_start": 24.4,
+        "video_end": 25.2
+      },
+      {
+        "id": "top-11",
+        "name": "Top 11",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-11.png",
+        "video_start": 26.0,
+        "video_end": 26.5
+      },
+      {
+        "id": "top-12",
+        "name": "Top 12",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-12.png",
+        "video_start": 28.6,
+        "video_end": 29.6
+      },
+      {
+        "id": "top-13",
+        "name": "Top 13",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-13.png",
+        "video_start": 40.5,
+        "video_end": 41.2
+      },
+      {
+        "id": "top-14",
+        "name": "Top 14",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-14.png",
+        "video_start": 41.9,
+        "video_end": 42.3
+      },
+      {
+        "id": "top-15",
+        "name": "Top 15",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-15.png",
+        "video_start": 42.8,
+        "video_end": 44.3
+      },
+      {
+        "id": "top-16",
+        "name": "Top 16",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-16.png",
+        "video_start": 45.0,
+        "video_end": 45.4
+      },
+      {
+        "id": "top-17",
+        "name": "Top 17",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-17.png",
+        "video_start": 46.2,
+        "video_end": 46.7
+      },
+      {
+        "id": "top-18",
+        "name": "Top 18",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-18.png",
+        "video_start": 47.5,
+        "video_end": 48.1
+      },
+      {
+        "id": "top-19",
+        "name": "Top 19",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-19.png",
+        "video_start": 48.9,
+        "video_end": 49.4
+      },
+      {
+        "id": "top-20",
+        "name": "Top 20",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-20.png",
+        "video_start": 50.2,
+        "video_end": 50.9
+      },
+      {
+        "id": "top-21",
+        "name": "Top 21",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-21.png",
+        "video_start": 51.9,
+        "video_end": 52.4
+      },
+      {
+        "id": "top-22",
+        "name": "Top 22",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-22.png",
+        "video_start": 52.8,
+        "video_end": 53.4
+      },
+      {
+        "id": "top-23",
+        "name": "Top 23",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-23.png",
+        "video_start": 54.7,
+        "video_end": 55.4
+      },
+      {
+        "id": "top-24",
+        "name": "Top 24",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-24.png",
+        "video_start": 56.1,
+        "video_end": 56.5
+      },
+      {
+        "id": "top-25",
+        "name": "Top 25",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-25.png",
+        "video_start": 57.3,
+        "video_end": 57.8
+      },
+      {
+        "id": "top-26",
+        "name": "Top 26",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-26.png",
+        "video_start": 59.8,
+        "video_end": 60.3
+      },
+      {
+        "id": "top-27",
+        "name": "Top 27",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-27.png",
+        "video_start": 61.3,
+        "video_end": 61.7
+      },
+      {
+        "id": "top-28",
+        "name": "Top 28",
+        "source": "assets/generated-game-assets/characters/clothing/tops/top-28.png",
+        "video_start": 65.8,
+        "video_end": 66.43
+      }
+    ]
+  }
+}

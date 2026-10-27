@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ameba Pico Room Prototype</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="game-shell">
+    <header class="ameba-bar">
+      <strong>Ameba</strong>
+      <nav>
+        <button type="button">MY ACCOUNT</button>
+        <button type="button">CHARGE</button>
+        <button type="button">FAQ</button>
+        <button type="button">LOGOUT</button>
+      </nav>
+    </header>
+
+    <section class="pico-bar">
+      <div class="pico-logo"><span>✤</span> pico</div>
+      <div class="account-stats">
+        <strong>🏠 My Room</strong>
+        <span>🔔 Today's Rings <b>0</b></span>
+        <span>👍 Today's Pico Props <b>0</b></span>
+        <span>🌸 810</span>
+      </div>
+    </section>
+
+    <section class="room-stage">
+      <div class="room-heading">
+        <strong>Untitled Room</strong>
+        <span>Click the floor to walk · click the orange arrow to rotate</span>
+      </div>
+      <canvas id="gameCanvas" width="960" height="560" aria-label="Playable isometric Pico room"></canvas>
+      <div id="loadingStatus" class="loading-status">Loading avatar layers…</div>
+      <section id="closetPanel" class="closet-panel" aria-label="Closet" hidden>
+        <header class="closet-header">
+          <strong><span aria-hidden="true">👖👚</span> CLOSET</strong>
+          <button id="closetCloseButton" class="closet-close" type="button" aria-label="Close closet">×</button>
+        </header>
+        <nav id="closetTabs" class="closet-tabs" aria-label="Closet categories"></nav>
+        <div class="closet-main">
+          <aside class="closet-preview-column">
+            <div id="closetAvatarPreview" class="closet-avatar-preview" aria-label="Outfit preview"></div>
+            <button id="closetSaveButton" class="closet-save" type="button">SAVE</button>
+          </aside>
+          <section class="closet-inventory">
+            <div id="closetItemName" class="closet-item-name">&nbsp;</div>
+            <div id="closetGrid" class="closet-grid"></div>
+          </section>
+        </div>
+        <section class="current-clothes">
+          <strong>Current clothes<span aria-hidden="true">▶</span></strong>
+          <div class="current-clothes-row">
+            <button id="removeAllClothesButton" class="remove-all-clothes" type="button">REMOVE<br>ALL</button>
+            <div id="currentClothesGrid" class="current-clothes-grid"></div>
+          </div>
+        </section>
+        <footer class="closet-footer">
+          <span id="closetItemCount">item: 0 / 500</span>
+        </footer>
+      </section>
+      <div class="zoom-controls" aria-hidden="true">
+        <span>✣</span>
+        <button type="button">+</button>
+        <button type="button">−</button>
+      </div>
+    </section>
+
+    <section class="bottom-ui">
+      <div class="chat-area">
+        <div class="chat-label">⌃ Chat History</div>
+        <div class="chat-row">
+          <input aria-label="Chat message" maxlength="90">
+          <button type="button">TALK</button>
+        </div>
+        <div id="facingStatus" class="facing-status">Facing front</div>
+      </div>
+      <nav class="action-bar" aria-label="Game actions">
+        <button type="button"><span>📷</span>CAMERA</button>
+        <button type="button"><span>🗺️</span>TRAVEL</button>
+        <button type="button"><span>👥</span>BUDDIES</button>
+        <button id="closetButton" type="button"><span>👗</span>CLOSET</button>
+        <button type="button"><span>🏠</span>DECOR</button>
+        <button type="button"><span>🎒</span>POCKET</button>
+        <button type="button"><span>🛍️</span>SHOP</button>
+        <button id="rotateButton" type="button"><span>↻</span>ROTATE</button>
+      </nav>
+    </section>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

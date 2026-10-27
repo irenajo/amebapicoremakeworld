@@ -1,0 +1,184 @@
+{
+  "directions": [
+    "front-right",
+    "front-left",
+    "back-right",
+    "back-left"
+  ],
+  "base": {
+    "front-right": "assets/generated-game-assets/characters/directions/base/front-right.png",
+    "front-left": "assets/generated-game-assets/characters/directions/base/front-left.png",
+    "back-right": "assets/generated-game-assets/characters/directions/base/back-right.png",
+    "back-left": "assets/generated-game-assets/characters/directions/base/back-left.png"
+  },
+  "tops": {
+    "top-01": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-01/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-01/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-01/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-01/back-left.png"
+    },
+    "top-02": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-02/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-02/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-02/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-02/back-left.png"
+    },
+    "top-03": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-03/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-03/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-03/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-03/back-left.png"
+    },
+    "top-04": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-04/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-04/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-04/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-04/back-left.png"
+    },
+    "top-05": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-05/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-05/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-05/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-05/back-left.png"
+    },
+    "top-06": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-06/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-06/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-06/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-06/back-left.png"
+    },
+    "top-07": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-07/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-07/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-07/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-07/back-left.png"
+    },
+    "top-08": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-08/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-08/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-08/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-08/back-left.png"
+    },
+    "top-09": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-09/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-09/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-09/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-09/back-left.png"
+    },
+    "top-10": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-10/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-10/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-10/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-10/back-left.png"
+    },
+    "top-11": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-11/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-11/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-11/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-11/back-left.png"
+    },
+    "top-12": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-12/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-12/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-12/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-12/back-left.png"
+    },
+    "top-13": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-13/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-13/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-13/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-13/back-left.png"
+    },
+    "top-14": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-14/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-14/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-14/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-14/back-left.png"
+    },
+    "top-15": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-15/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-15/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-15/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-15/back-left.png"
+    },
+    "top-16": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-16/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-16/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-16/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-16/back-left.png"
+    },
+    "top-17": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-17/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-17/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-17/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-17/back-left.png"
+    },
+    "top-18": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-18/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-18/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-18/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-18/back-left.png"
+    },
+    "top-19": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-19/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-19/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-19/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-19/back-left.png"
+    },
+    "top-20": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-20/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-20/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-20/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-20/back-left.png"
+    },
+    "top-21": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-21/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-21/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-21/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-21/back-left.png"
+    },
+    "top-22": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-22/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-22/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-22/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-22/back-left.png"
+    },
+    "top-23": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-23/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-23/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-23/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-23/back-left.png"
+    },
+    "top-24": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-24/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-24/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-24/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-24/back-left.png"
+    },
+    "top-25": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-25/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-25/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-25/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-25/back-left.png"
+    },
+    "top-26": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-26/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-26/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-26/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-26/back-left.png"
+    },
+    "top-27": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-27/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-27/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-27/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-27/back-left.png"
+    },
+    "top-28": {
+      "front-right": "assets/generated-game-assets/characters/directions/tops/top-28/front-right.png",
+      "front-left": "assets/generated-game-assets/characters/directions/tops/top-28/front-left.png",
+      "back-right": "assets/generated-game-assets/characters/directions/tops/top-28/back-right.png",
+      "back-left": "assets/generated-game-assets/characters/directions/tops/top-28/back-left.png"
+    }
+  }
+}
